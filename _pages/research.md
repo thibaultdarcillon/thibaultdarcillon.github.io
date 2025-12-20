@@ -55,7 +55,7 @@ author_profile: true
 
 - "Do Institutional Investors Influence Corporate Governance and Compensation? Evidence for Canada and the US" (with Yasmine <span class="smallcaps">Mohamed</span>)
 
-- "The Political Economy of Environmental Protection" (f)cd
+- "The Political Economy of Environmental Protection" 
 
 - "Labor Share, Capital Share, and Profit: A Review of the Data and Literature" (with Guillaume <span class="smallcaps">Bazot</span> and David <span class="smallcaps">Guerreiro</span>) 
 
