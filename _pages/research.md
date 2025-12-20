@@ -50,9 +50,13 @@ author_profile: true
 ## Work in progress
 
 - "Job Quality, Bargaining Power, and Capital Ownership Structure: Evidence from Establishment-Level Data in France, 2005-2023" (with Yasmine <span class="smallcaps">Mohamed</span>) [in revision] 
+
 - "Political Involvement and Formation of Taxation Preferences" (with Bilal <span class="smallcaps">El Rafhi</span>)
+
 - "Do Institutional Investors Influence Corporate Governance and Compensation? Evidence for Canada and the US" (with Yasmine <span class="smallcaps">Mohamed</span>)
+
 - "The Political Economy of Environmental Protection"
+
 - "Labor Share, Capital Share, and Profit: A Review of the Data and Literature" (with Guillaume <span class="smallcaps">Bazot</span> and David <span class="smallcaps">Guerreiro</span>) 
 
 
