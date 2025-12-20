@@ -13,7 +13,7 @@ author_profile: true
 
 - [13] "Brahmin left versus merchant right? Political support and policy preferences in Western democraties" (with Bruno Amable), ***Revue de la Régulation***, 38 (2025) [[Article](https://journals.openedition.org/regulation/25121)] [[Working Paper](https://archive-ouverte.unige.ch/unige:159102)][[Supplementary appendix](https://www.dropbox.com/scl/fi/uhymt83ax5sdistx59tym/supplementary_appendix.pdf?rlkey=dabluq4lphftyihug3ctte8jx&e=1&st=eagzt7ie&dl=0)]
 
-- [12] The Evolution of Affluent Support for Redistribution in Germany in the Context of Rising Inequalities" (with Bilal <span class="smallcaps">El Rafhi</span>), ***European Journal of Political Economy***, 85 (2024) [[Article](https://www.sciencedirect.com/science/article/pii/S0176268024001162)]
+- [12] The Evolution of Affluent Support for Redistribution in Germany in the Context of Rising Inequalities" (with Bilal El Rafhi), ***European Journal of Political Economy***, 85 (2024) [[Article](https://www.sciencedirect.com/science/article/pii/S0176268024001162)]
 
 - [11] "Job Quality and Institutional Investors: Evidence in 17 OECD Countries, 1990-2017" (with Yasmine <span class="smallcaps">Mohamed</span>), ***European Journal of Industrial Relations***, 31(4): 487-514 (2024) [[Article](https://journals.sagepub.com/eprint/J3FG22XJGUZJW5HSYAXS/full)]
 
