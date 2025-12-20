@@ -7,21 +7,21 @@ author_profile: true
 
 ## Refereed journals 
 
-- [15] "Job Destruction, Workforce Characteristics and Economic Performance: Evidence from Firm-Level Data in France, 2003-2018" (with Paul Lagneau-Ymonet, Jaime Montana, and Bénédicte Reynaud), ***Revue Economique***, forthcoming (2026) [Article]
+- [15] "Job Destruction, Workforce Characteristics and Economic Performance: Evidence from Firm-Level Data in France, 2003-2018" (with Paul <span class="smallcaps">Lagneau-Ymonet</span>, Jaime <span class="smallcaps">Montana</span>, and Bénédicte <span class="smallcaps">Reynaud</span>), ***Revue Economique***, forthcoming (2026) [Article]
 
 - [14] "The Effect of Financial Deregulation on Effective Tax Rates: Evidence for 17 OECD countries (1973-2022) and the United States (1913-2019)", ***Applied Economics***, forthcoming (2025) [[Article](https://www.tandfonline.com/doi/pdf/10.1080/00036846.2025.2536878)][[Blog](https://aoc.media/analyse/2024/12/03/liberalisation-financiere-et-niveaux-de-taxation/)]
 
-- [13] "Brahmin left versus merchant right? Political support and policy preferences in Western democraties" (with Bruno Amable), ***Revue de la Régulation***, 38 (2025) [[Article](https://journals.openedition.org/regulation/25121)] [[Working Paper](https://archive-ouverte.unige.ch/unige:159102)][[Supplementary appendix](https://www.dropbox.com/scl/fi/uhymt83ax5sdistx59tym/supplementary_appendix.pdf?rlkey=dabluq4lphftyihug3ctte8jx&e=1&st=eagzt7ie&dl=0)]
+- [13] "Brahmin left versus merchant right? Political support and policy preferences in Western democraties" (with Bruno <span class="smallcaps">Amable<span>), ***Revue de la Régulation***, 38 (2025) [[Article](https://journals.openedition.org/regulation/25121)] [[Working Paper](https://archive-ouverte.unige.ch/unige:159102)][[Supplementary appendix](https://www.dropbox.com/scl/fi/uhymt83ax5sdistx59tym/supplementary_appendix.pdf?rlkey=dabluq4lphftyihug3ctte8jx&e=1&st=eagzt7ie&dl=0)]
 
-- [12] The Evolution of Affluent Support for Redistribution in Germany in the Context of Rising Inequalities" (with Bilal El Rafhi), ***European Journal of Political Economy***, 85 (2024) [[Article](https://www.sciencedirect.com/science/article/pii/S0176268024001162)]
+- [12] The Evolution of Affluent Support for Redistribution in Germany in the Context of Rising Inequalities" (with Bilal <span class="smallcaps">El Rafhi<span>), ***European Journal of Political Economy***, 85 (2024) [[Article](https://www.sciencedirect.com/science/article/pii/S0176268024001162)]
 
-- [11] "Job Quality and Institutional Investors: Evidence in 17 OECD Countries, 1990-2017" (with Yasmine Mohamed), ***European Journal of Industrial Relations***, 31(4): 487-514 (2024) [[Article](https://journals.sagepub.com/eprint/J3FG22XJGUZJW5HSYAXS/full)]
+- [11] "Job Quality and Institutional Investors: Evidence in 17 OECD Countries, 1990-2017" (with Yasmine <span class="smallcaps">Mohamed<span>), ***European Journal of Industrial Relations***, 31(4): 487-514 (2024) [[Article](https://journals.sagepub.com/eprint/J3FG22XJGUZJW5HSYAXS/full)]
 
-- [10] "Union Bargaining Power and Institutional Investors: Evidence from 21 OECD countries, 1980-2017" (with Yasmine Mohamed), ***ILR Review***, 76(5), 864-889 (2023) [[Article](https://journals.sagepub.com/doi/10.1177/00197939231181586)] [[Blog](https://futuresofwork.co.uk/2024/04/29/how-the-rising-influence-of-institutional-investors-undermines-the-bargaining-power-of-trade-unions/)]
+- [10] "Union Bargaining Power and Institutional Investors: Evidence from 21 OECD countries, 1980-2017" (with Yasmine <span class="smallcaps">Mohamed<span>), ***ILR Review***, 76(5), 864-889 (2023) [[Article](https://journals.sagepub.com/doi/10.1177/00197939231181586)] [[Blog](https://futuresofwork.co.uk/2024/04/29/how-the-rising-influence-of-institutional-investors-undermines-the-bargaining-power-of-trade-unions/)]
 
-- [9] "The Brahmin Left, the Merchant Right, and the Bloc Bourgeois" (with Bruno Amable), ***Review of International Political Economy***, 29(4): 1342-1367 (2022) [[Article](https://www.tandfonline.com/doi/full/10.1080/09692290.2021.1913440)] [[Working Paper](https://archive-ouverte.unige.ch/unige:132236)][[Blog](https://marxistsociology.org/2022/10/the-brahmin-left-the-merchant-right-and-the-bloc-bourgeois/)]
+- [9] "The Brahmin Left, the Merchant Right, and the Bloc Bourgeois" (with Bruno <span class="smallcaps">Amable<span>), ***Review of International Political Economy***, 29(4): 1342-1367 (2022) [[Article](https://www.tandfonline.com/doi/full/10.1080/09692290.2021.1913440)] [[Working Paper](https://archive-ouverte.unige.ch/unige:132236)][[Blog](https://marxistsociology.org/2022/10/the-brahmin-left-the-merchant-right-and-the-bloc-bourgeois/)]
 
-- [8] "Gouvernance d'entreprise : 40 ans d'évolution" (with Antoine Rebérioux), ***Revue d'économie financière***,  1(37), 173-185 (2020) [[Article](https://shs.cairn.info/revue-d-economie-financiere-2020-1-page-173?lang=fr&contenu=article)]
+- [8] "Gouvernance d'entreprise : 40 ans d'évolution" (with Antoine <span class="smallcaps">Rebérioux<span>), ***Revue d'économie financière***,  1(37), 173-185 (2020) [[Article](https://shs.cairn.info/revue-d-economie-financiere-2020-1-page-173?lang=fr&contenu=article)]
 
 - [7] "Finance et inégalités. Une approche d'économie politique", ***Actes de Recherche en Sciences Sociales***, 229, 72-85 (2019) [[Article](https://shs.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales-2019-4-page-72?lang=fr)]
 
@@ -33,13 +33,13 @@ author_profile: true
 
 - [3] "How does Finance Affect Labor Market Institutions? An Empirical Analysis in 16 OECD Countries", ***Socio-Economic Review***, 13(3), 477-504 (2015) [[Article](https://academic.oup.com/ser/article-abstract/13/3/477/1666050?redirectedFrom=fulltext)]
 
-- [2] "The Political Economy of Easy Credit Policies" (with Karim Azizi), ***Journal of Income Distribution***, 23(3-4), 84-105 (2014) [[Article](https://jid.journals.yorku.ca/index.php/jid/article/view/40311)] 
+- [2] "The Political Economy of Easy Credit Policies" (with Karim <span class="smallcaps">Azizi<span>), ***Journal of Income Distribution***, 23(3-4), 84-105 (2014) [[Article](https://jid.journals.yorku.ca/index.php/jid/article/view/40311)] 
 
 - [1] "Mesurer l'impact de l'effet partisan sur les réformes de corporate governance", ***Revue Économique***, 64(3), pp. 445-455 (2013) [[Article](https://shs.cairn.info/revue-economique-2013-3-page-445?lang=fr)]  
 
 ## Book chapters
 
-- [1] "Finance, Risk, and Inequality",  [***Handbook on Risk and Inequality***](https://www.e-elgar.com/shop/gbp/handbook-on-risk-and-inequality-9781788972253.html), Curran Dean (dir.), Edward Edgar Publishing (2022) [[Chapter](https://www.dropbox.com/scl/fi/nlf1wwnto62xoaufvx70a/2022_Handbook-on-Risk-and-Inequality-Chapter-2_-Finance-risk-and-inequality.pdf?rlkey=pg1fmbxgo0ru6et838s6i1jdt&st=9cj20gwp&dl=0)] 
+- [1] "Finance, Risk, and Inequality",  [***Handbook on Risk and Inequality***](https://www.e-elgar.com/shop/gbp/handbook-on-risk-and-inequality-9781788972253.html), Curran <span class="smallcaps">Dean<span> (dir.), Edward Edgar Publishing (2022) [[Chapter](https://www.dropbox.com/scl/fi/nlf1wwnto62xoaufvx70a/2022_Handbook-on-Risk-and-Inequality-Chapter-2_-Finance-risk-and-inequality.pdf?rlkey=pg1fmbxgo0ru6et838s6i1jdt&st=9cj20gwp&dl=0)] 
 
 ## Book reviews
 
@@ -49,11 +49,11 @@ author_profile: true
 
 ## Work in progress
 
-- "Job Quality, Bargaining Power, and Capital Ownership Structure: Evidence from Establishment-Level Data in France, 2005-2023" (with Yasmine Mohamed) [in revision] 
-- "Political Involvement and Formation of Taxation Preferences" (with Bilal El Rafhi)
-- "Do Institutional Investors Influence Corporate Governance and Compensation? Evidence for Canada and the US" (with Yasmine Mohamed)
+- "Job Quality, Bargaining Power, and Capital Ownership Structure: Evidence from Establishment-Level Data in France, 2005-2023" (with Yasmine <span class="smallcaps">Mohamed<span>) [in revision] 
+- "Political Involvement and Formation of Taxation Preferences" (with Bilal <span class="smallcaps">El Rafhi<span>)
+- "Do Institutional Investors Influence Corporate Governance and Compensation? Evidence for Canada and the US" (with Yasmine <span class="smallcaps">Mohamed<span>)
 - "The Political Economy of Environmental Protection"
-- "Labor Share, Capital Share, and Profit: A Review of the Data and Literature" (with Guillaume Bazot and David Guerreiro) 
+- "Labor Share, Capital Share, and Profit: A Review of the Data and Literature" (with Guillaume <span class="smallcaps">Bazot<span> and David <span class="smallcaps">Guerreiro<span>) 
 
 
 
