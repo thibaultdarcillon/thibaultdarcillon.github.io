@@ -11,7 +11,7 @@ author_profile: true
 
 - [14] "The Effect of Financial Deregulation on Effective Tax Rates: Evidence for 17 OECD countries (1973-2022) and the United States (1913-2019)", ***Applied Economics***, forthcoming (2025) [[Article](https://www.tandfonline.com/doi/pdf/10.1080/00036846.2025.2536878)][[Blog](https://aoc.media/analyse/2024/12/03/liberalisation-financiere-et-niveaux-de-taxation/)]
 
-- [13] "Brahmin left versus merchant right? Political support and policy preferences in Western democraties" (with Bruno <span class="smallcaps">Amable</span>), ***Revue de la Régulation***, 38 (2025) [[Article](https://journals.openedition.org/regulation/25121)] [[Working Paper](https://archive-ouverte.unige.ch/unige:159102)][[Supplementary appendix](https://www.dropbox.com/scl/fi/uhymt83ax5sdistx59tym/supplementary_appendix.pdf?rlkey=dabluq4lphftyihug3ctte8jx&e=1&st=eagzt7ie&dl=0)]
+- [13] "Brahmin left versus merchant right? Political support and policy preferences in Western democraties" (with Bruno Amable), ***Revue de la Régulation***, 38 (2025) [[Article](https://journals.openedition.org/regulation/25121)] [[Working Paper](https://archive-ouverte.unige.ch/unige:159102)][[Supplementary appendix](https://www.dropbox.com/scl/fi/uhymt83ax5sdistx59tym/supplementary_appendix.pdf?rlkey=dabluq4lphftyihug3ctte8jx&e=1&st=eagzt7ie&dl=0)]
 
 - [12] The Evolution of Affluent Support for Redistribution in Germany in the Context of Rising Inequalities" (with Bilal <span class="smallcaps">El Rafhi</span>), ***European Journal of Political Economy***, 85 (2024) [[Article](https://www.sciencedirect.com/science/article/pii/S0176268024001162)]
 
