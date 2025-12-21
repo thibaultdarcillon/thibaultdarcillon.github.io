@@ -14,9 +14,10 @@ main:
   - title: "PhD Students"
     url: /phd/
 
+  - title: "Teaching"
+    url: /teaching/    
+
   - title: "CV"
     url: /cv/    
 
-  - title: "Teaching"
-    url: /teaching/    
     
