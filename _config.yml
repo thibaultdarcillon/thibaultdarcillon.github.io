@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title: "Thibault Darcillon"
 description: "Associate Professor of Economics" # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://thibaultdarcillon.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
