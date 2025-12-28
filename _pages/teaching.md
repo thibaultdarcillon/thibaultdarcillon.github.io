@@ -27,7 +27,7 @@ author_profile: true
 
 - [Economie politique des institutions](/assets/pdf/syllabus_EcoPoInstitutions.pdf) (Master Sciences Economiques et Sociales), 2025-
 
-Diapositives : [Chapitre 1](/assets/pdf/EcoPoIns_chap1.pdf); [Chapitre 2](/assets/pdf/EcoPoIns_chap2.pdf); [Chapitre 3](/assets/pdf/EcoPoIns_chap3.pdf); [Chapitre 4](/assets/pdf/EcoPoIns_chap4.pdf)
+    - Diapositives : [Chapitre 1](/assets/pdf/EcoPoIns_chap1.pdf); [Chapitre 2](/assets/pdf/EcoPoIns_chap2.pdf); [Chapitre 3](/assets/pdf/EcoPoIns_chap3.pdf); [Chapitre 4](/assets/pdf/EcoPoIns_chap4.pdf)
 
 ***
 
