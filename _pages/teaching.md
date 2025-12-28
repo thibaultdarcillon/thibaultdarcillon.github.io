@@ -11,21 +11,21 @@ author_profile: true
 
 - [Economie politique de l'économie sociale et solidaire](/assets/pdf/EcoPoESS_syllabus.pdf) (M2 ESSI), 2025-
 
-- Inégalités et répartition (L2 Economie-Gestion), 2024-
+- [Inégalités et répartition](/assets/pdf/Inegalites_syllabus_2025-2026.pdf) (L2 Economie-Gestion), 2024-
 
 - Séminaire de préparation au stage et au mémoire (M1 MBFA), 2024-
 
-- Economie des organisations et des institutions (M1 EMD3P/ESSI), 2021-
+- [Economie des organisations et des institutions](/assets/pdf/EcoOrg_Inst_syllabus_2025-2026.pdf) (M1 EMD3P/ESSI), 2021-
 
-- Politique économique (M1 EMD3P), 2020-
+- [Politique économique](/assets/pdf/PolEco_syllabus_2025-2026.pdf) (M1 EMD3P), 2020-
 
 - Introduction à l'économie (L1 Économie-Gestion), 2019-
 
-- Systèmes financiers et changements institutionnels (M2 MBFA), 2016-
+- [Systèmes financiers et changements institutionnels](/assets/pdf/SFCI_syllabus_2025-2026.pdf) (M2 MBFA), 2016-
 
 ## Université Paris Nanterre
 
-- Economie politique des institutions (Master Sciences Economiques et Sociales), 2025-
+- [Economie politique des institutions](/assets/pdf/syllabus_EcoPoInstitutions.pdf) (Master Sciences Economiques et Sociales), 2025-
 
 Diapositives : [Chapitre 1](/assets/pdf/EcoPoIns_chap1.pdf); [Chapitre 2](/assets/pdf/EcoPoIns_chap2.pdf); [Chapitre 3](/assets/pdf/EcoPoIns_chap3.pdf); [Chapitre 4](/assets/pdf/EcoPoIns_chap4.pdf)
 
