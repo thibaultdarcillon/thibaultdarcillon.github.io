@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Refereed journals 
+### Refereed journals 
 
 - [15] "Job Destruction, Workforce Characteristics and Economic Performance: Evidence from Firm-Level Data in France, 2003-2018" (with Paul <span class="smallcaps">Lagneau-Ymonet</span>, Jaime <span class="smallcaps">Montana</span>, and Bénédicte <span class="smallcaps">Reynaud</span>), ***Revue Economique***, forthcoming (2026) [Article]
 
