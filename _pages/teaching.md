@@ -7,7 +7,7 @@ author_profile: true
 
 # Current teaching 
 
-## Université Paris VII Vincennes Saint-Denis
+## Université Paris VIII Vincennes Saint-Denis
 
 - [Economie politique de l'économie sociale et solidaire](/assets/pdf/EcoPoESS_syllabus.pdf) (M2 ESSI), 2025-
 
@@ -33,7 +33,7 @@ author_profile: true
 
 # Past teaching 
 
-## Université Paris VII Vincennes Saint-Denis
+## Université Paris VIII Vincennes Saint-Denis
 
 - Capitalisme, Finance et Emploi (L3 Economie-Gestion), 2021-2023
 
