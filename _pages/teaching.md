@@ -9,7 +9,7 @@ author_profile: true
 
 ## Université Paris VII Vincennes Saint-Denis
 
-- Economie politique de l'économie sociale et solidaire (M2 ESSI), 2025-
+- [Economie politique de l'économie sociale et solidaire](/assets/pdf/EcoPoESS_syllabus.pdf) (M2 ESSI), 2025-
 
 - Inégalités et répartition (L2 Economie-Gestion), 2024-
 
