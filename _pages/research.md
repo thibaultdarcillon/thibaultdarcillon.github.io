@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Refereed journals 
+# Refereed journals 
 
 - [15] "Job Destruction, Workforce Characteristics and Economic Performance: Evidence from Firm-Level Data in France, 2003-2018" (with Paul <span class="smallcaps">Lagneau-Ymonet</span>, Jaime <span class="smallcaps">Montana</span>, and Bénédicte <span class="smallcaps">Reynaud</span>), ***Revue Economique***, forthcoming (2026) [Article]
 
@@ -37,11 +37,11 @@ author_profile: true
 
 - [1] "Mesurer l'impact de l'effet partisan sur les réformes de corporate governance", ***Revue Économique***, 64(3), pp. 445-455 (2013) [[Article](https://shs.cairn.info/revue-economique-2013-3-page-445?lang=fr)]  
 
-## Book chapters
+# Book chapters
 
 - [1] "Finance, Risk, and Inequality",  [***Handbook on Risk and Inequality***](https://www.e-elgar.com/shop/gbp/handbook-on-risk-and-inequality-9781788972253.html), Curran <span class="smallcaps">Dean</span> (dir.), Edward Edgar Publishing (2022) [[Chapter](https://www.dropbox.com/scl/fi/nlf1wwnto62xoaufvx70a/2022_Handbook-on-Risk-and-Inequality-Chapter-2_-Finance-risk-and-inequality.pdf?rlkey=pg1fmbxgo0ru6et838s6i1jdt&st=9cj20gwp&dl=0)] 
 
-## Book reviews
+# Book reviews
 
 - [2] "De la diffusion des idées à l'adoption de réformes néolibérales : la France fait-elle vraiment exception ?", ***Revue Française de Socio-Economie***, 31(2), 271-278 (2023) [[Article](https://shs.cairn.info/revue-francaise-de-socio-economie-2023-2-page-271?lang=fr)]
 

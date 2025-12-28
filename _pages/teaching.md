@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Université Paris VIII Vincennes-Saint-Denis
+# Current teaching 
 
 - **Economie politique de l'économie sociale et solidaire** (M2 ESSI), 2025-
 
@@ -21,6 +21,15 @@ author_profile: true
 
 - **Systèmes financiers et changements institutionnels** (M2 MBFA), 2016-
 
+## Université Paris Nanterre
+
+- **Economie politique des institutions** (Master Sciences Economiques et Sociales), 2025-
+
+Diapositives : [Chapitre 1](/assets/pdf/EcoPoIns_chap1.pdf); [Chapitre 2](/assets/pdf/EcoPoIns_chap2.pdf); [Chapitre 3](/assets/pdf/EcoPoIns_chap3.pdf); [Chapitre 4](/assets/pdf/EcoPoIns_chap4.pdf)
+
+## Past teaching 
+
+
 - **Capitalisme, Finance et Emploi** (L3 Economie-Gestion), 2021-2023
 
 - **Macroéconomie I** (L1 Économie-Gestion), 2016-2021
@@ -28,11 +37,7 @@ author_profile: true
 - **Techniques quantitatives I** (L1 Économie-Gestion), 2016-2019
 
 
-## Université Paris Nanterre
 
-- **Economie politique des institutions** (Master Sciences Economiques et Sociales), 2025-
-
-Diapositives : [Chapitre 1](/assets/pdf/EcoPoIns_chap1.pdf); [Chapitre 2](/assets/pdf/EcoPoIns_chap2.pdf); [Chapitre 3](/assets/pdf/EcoPoIns_chap3.pdf); [Chapitre 4](/assets/pdf/EcoPoIns_chap4.pdf)
 
 
 ## IEP Fontaibleau (UPEC)
