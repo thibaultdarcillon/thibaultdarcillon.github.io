@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-Download my full CV in [French]((/assets/pdf/CV-09-20.pdf) or in English.
+Download my full CV in [French](/assets/pdf/CV-09-20.pdf) or in English.
 
 ## Employment 
 
