@@ -11,11 +11,11 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "PhD Students"
-    url: /phd/
-
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/  
+
+  - title: "PhD students"
+    url: /phd/  
 
   - title: "CV"
     url: /cv/    

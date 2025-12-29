@@ -15,9 +15,11 @@ author_profile: true
 
 - [Séminaire de préparation au stage et au mémoire](/assets/pdf/prep_stage_syllabus_2025-2026.pdf) (M1 MBFA), 2024-
 
-- [EC Tremplin -- Métier \& Master](/assets/pdf/EC_tremplin_syllabus_2025-2026.pdf) (L3 Economie-Gestion Parcours Economie-Finance), 2023-
+- [EC Tremplin](/assets/pdf/EC_tremplin_syllabus_2025-2026.pdf) (L3 Economie-Gestion Parcours Economie-Finance), 2023-
 
     - Diapositives : [Séance 1](/assets/pdf/EC_tremplin_memoire.pdf); [Séance 2](/assets/pdf/EC_tremplin_CV.pdf); [Séance 3](/assets/pdf/EC_tremplin_candidatures.pdf)
+
+
 
 - [Economie des organisations et des institutions](/assets/pdf/EcoOrg_Inst_syllabus_2025-2026.pdf) (M1 EMD3P/ESSI), 2021-
 
