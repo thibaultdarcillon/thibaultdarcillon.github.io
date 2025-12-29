@@ -22,8 +22,8 @@ I am one of the co-organizers of the seminar "[Political Economy of Institutiona
 
 ## Contact 
 
-    **Thibault Darcillon**
-    Mail: [thibault.darcillon@univ-paris8.fr](thibault.darcillon@univ-paris8.fr)
-    Université Paris VIII Vincennes Saint-Denis
-    UFR AES - Economie et Gestion
-    2 rue de la Libertéc 93526 Saint-Denis cedex, France
+**Thibault Darcillon**  
+Mail: thibault.darcillon@univ-paris8.fr  
+Université Paris VIII Vincennes Saint-Denis  
+UFR AES - Economie et Gestion  
+2 rue de la Libertéc 93526 Saint-Denis cedex, France
