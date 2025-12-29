@@ -16,7 +16,7 @@ Download my full CV in [French]((/assets/pdf/CV-09-20.pdf) or in English.
 - Directorate for Research of the French Ministry of Social Affairs and
 Health, Social Protection Macroeconomist, 2015-2016. 
 - Université Paris Diderot (Paris VII), Department of Economics, LADYSS, Temporary Research and Teaching Assistant (*ATER*), 2013-2015. 
-- Université Paris I Panthéon-Sorbonne, Department of Economics, Centre d'Economie de la Sorbonne, PhD candidate, 2010-2013. 
+- Université Paris I Panthéon-Sorbonne/Paris School of Economics, Department of Economics, Centre d'Economie de la Sorbonne, PhD candidate, 2010-2013. 
 
 ## Education 
 
