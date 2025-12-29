@@ -19,3 +19,12 @@ Within the department of Economics and Management at the Université Paris VIII,
 - Member of the LED Council and the *comité consultatif* 
 
 I am one of the co-organizers of the seminar "[Political Economy of Institutional Change](https://www.parisschoolofeconomics.eu/evenements/economie-politique-du-changement-institutionnel-epci/)" (Université Paris I/Paris School of Economics). 
+
+## Contact 
+
+**Thibault Darcillon**
+[thibault.darcillon@univ-paris8.fr]
+Université Paris VIII Vincennes Saint-Denis
+UFR AES - Economie et Gestion
+2 rue de la Liberté
+93526 Saint-Denis cedex, France
