@@ -11,7 +11,7 @@ author_profile: true
 
 - [14] "The Effect of Financial Deregulation on Effective Tax Rates: Evidence for 17 OECD countries (1973-2022) and the United States (1913-2019)", ***Applied Economics***, forthcoming (2025) [[Article](https://www.tandfonline.com/doi/pdf/10.1080/00036846.2025.2536878)][[Blog](https://aoc.media/analyse/2024/12/03/liberalisation-financiere-et-niveaux-de-taxation/)]
 
-- [13] "Brahmin left versus merchant right? Political support and policy preferences in Western democraties" (with Bruno <span class="smallcaps">Amable</span>), ***Revue de la Régulation***, 38 (2025) [[Article](https://journals.openedition.org/regulation/25121)] [[Working Paper](https://archive-ouverte.unige.ch/unige:159102)][[Supplementary appendix](https://www.dropbox.com/scl/fi/uhymt83ax5sdistx59tym/supplementary_appendix.pdf?rlkey=dabluq4lphftyihug3ctte8jx&e=1&st=eagzt7ie&dl=0)]
+- [13] "Brahmin left *versus* merchant right? Political support and policy preferences in Western democraties" (with Bruno <span class="smallcaps">Amable</span>), ***Revue de la Régulation***, 38 (2025) [[Article](https://journals.openedition.org/regulation/25121)] [[Working Paper](https://archive-ouverte.unige.ch/unige:159102)][[Supplementary appendix](https://www.dropbox.com/scl/fi/uhymt83ax5sdistx59tym/supplementary_appendix.pdf?rlkey=dabluq4lphftyihug3ctte8jx&e=1&st=eagzt7ie&dl=0)]
 
 - [12] The Evolution of Affluent Support for Redistribution in Germany in the Context of Rising Inequalities" (with Bilal <span class="smallcaps">El Rafhi</span>), ***European Journal of Political Economy***, 85 (2024) [[Article](https://www.sciencedirect.com/science/article/pii/S0176268024001162)]
 
@@ -19,7 +19,7 @@ author_profile: true
 
 - [10] "Union Bargaining Power and Institutional Investors: Evidence from 21 OECD countries, 1980-2017" (with Yasmine <span class="smallcaps">Mohamed</span>), ***ILR Review***, 76(5), 864-889 (2023) [[Article](https://journals.sagepub.com/doi/10.1177/00197939231181586)] [[Blog](https://futuresofwork.co.uk/2024/04/29/how-the-rising-influence-of-institutional-investors-undermines-the-bargaining-power-of-trade-unions/)]
 
-- [9] "The Brahmin Left, the Merchant Right, and the Bloc Bourgeois" (with Bruno <span class="smallcaps">Amable</span>), ***Review of International Political Economy***, 29(4): 1342-1367 (2022) [[Article](https://www.tandfonline.com/doi/full/10.1080/09692290.2021.1913440)] [[Working Paper](https://archive-ouverte.unige.ch/unige:132236)][[Blog](https://marxistsociology.org/2022/10/the-brahmin-left-the-merchant-right-and-the-bloc-bourgeois/)]
+- [9] "The Brahmin Left, the Merchant Right, and the *Bloc Bourgeois*" (with Bruno <span class="smallcaps">Amable</span>), ***Review of International Political Economy***, 29(4): 1342-1367 (2022) [[Article](https://www.tandfonline.com/doi/full/10.1080/09692290.2021.1913440)] [[Working Paper](https://archive-ouverte.unige.ch/unige:132236)][[Blog](https://marxistsociology.org/2022/10/the-brahmin-left-the-merchant-right-and-the-bloc-bourgeois/)]
 
 - [8] "Gouvernance d'entreprise : 40 ans d'évolution" (with Antoine <span class="smallcaps">Rebérioux</span>), ***Revue d'économie financière***,  1(37), 173-185 (2020) [[Article](https://shs.cairn.info/revue-d-economie-financiere-2020-1-page-173?lang=fr&contenu=article)]
 
@@ -35,7 +35,7 @@ author_profile: true
 
 - [2] "The Political Economy of Easy Credit Policies" (with Karim <span class="smallcaps">Azizi</span>), ***Journal of Income Distribution***, 23(3-4), 84-105 (2014) [[Article](https://jid.journals.yorku.ca/index.php/jid/article/view/40311)] 
 
-- [1] "Mesurer l'impact de l'effet partisan sur les réformes de corporate governance", ***Revue Économique***, 64(3), pp. 445-455 (2013) [[Article](https://shs.cairn.info/revue-economique-2013-3-page-445?lang=fr)]  
+- [1] "Mesurer l'impact de l'effet partisan sur les réformes de *corporate governance*", ***Revue Économique***, 64(3), pp. 445-455 (2013) [[Article](https://shs.cairn.info/revue-economique-2013-3-page-445?lang=fr)]  
 
 ## Book chapters
 
@@ -50,6 +50,8 @@ author_profile: true
 ## Work in progress
 
 - "Job Quality, Bargaining Power, and Capital Ownership Structure: Evidence from Establishment-Level Data in France, 2005-2023" (with Yasmine <span class="smallcaps">Mohamed</span>) [in revision] 
+
+- "Dismantling the European mode of development: digital capitalism, platform work, and the role of the state in Ireland and Spain (1970–2023)" (with Blanca <span class="smallcaps">Lozano Navarro</span>)
 
 - "Political Involvement and Formation of Taxation Preferences" (with Bilal <span class="smallcaps">El Rafhi</span>)
 
