@@ -63,3 +63,6 @@ author_profile: true
 
 
 
+## Other
+
+- "[Économie politique de la libéralisation financière. Les réformes de dérégulation financière et de *corporate governance* dans les pays de l’OCDE](https://doi.org/10.4000/regulation.10366)", **Revue de la régulation** 14(2), 2013. 
