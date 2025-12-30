@@ -43,9 +43,11 @@ author_profile: true
 
 ## Book reviews
 
-- [2] "De la diffusion des idées à l'adoption de réformes néolibérales : la France fait-elle vraiment exception ?", ***Revue Française de Socio-Economie***, 31(2), 271-278 (2023) [[Article](https://shs.cairn.info/revue-francaise-de-socio-economie-2023-2-page-271?lang=fr)]
+- [3] "De la diffusion des idées à l'adoption de réformes néolibérales : la France fait-elle vraiment exception ?", ***Revue Française de Socio-Economie***, 31(2), 271-278 (2023) [[Article](https://shs.cairn.info/revue-francaise-de-socio-economie-2023-2-page-271?lang=fr)]
 
-- [1] "Book review : Labor in the Age of Finance. Pensions, politics and corporations from deindustrialization to Dodd-Frank by Sanford Jacoby," ***Competition & Change***, 27(5), 874-876 (2023) [[Article](https://journals.sagepub.com/doi/10.1177/10245294221146218)] 
+- [2] "Book review : Labor in the Age of Finance. Pensions, politics and corporations from deindustrialization to Dodd-Frank by Sanford Jacoby," ***Competition & Change***, 27(5), 874-876 (2023) [[Article](https://journals.sagepub.com/doi/10.1177/10245294221146218)] 
+
+- [1] "Les serfs du numérique", ***La Vie des idées*** (2021) [[Article]](https://laviedesidees.fr/Durand-Techno-feodalisme) 
 
 ## Work in progress
 
@@ -63,6 +65,6 @@ author_profile: true
 
 
 
-## Other
+## Other publications
 
-- "[Économie politique de la libéralisation financière. Les réformes de dérégulation financière et de *corporate governance* dans les pays de l’OCDE](https://doi.org/10.4000/regulation.10366)", **Revue de la régulation** 14(2), 2013. 
+- "[Économie politique de la libéralisation financière. Les réformes de dérégulation financière et de *corporate governance* dans les pays de l’OCDE](https://doi.org/10.4000/regulation.10366)", ***Revue de la Régulation*** 14(2), 2013. 
