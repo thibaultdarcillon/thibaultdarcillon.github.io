@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-Download my full CV in [French](/assets/pdf/CV-09-20.pdf) or in English.
+Download my full CV in [French](/assets/pdf/CV-09-20.pdf) or in [English](/assets/pdf/CV_eng_12-25.pdf)
 
 ## Employment 
 
@@ -27,4 +27,5 @@ Health, Social Protection Macroeconomist, 2015-2016.
 ## Honors & distinctions
 
 - RIPEC Individual Bonus (2021-2025; 2025-2028); 
+- Recipient of a 6-month CRCT (Research or Thematic Conversion Leave), 2023;
 - Doctorale Contract, Ministry of Higher Education and Research, 2010.  
