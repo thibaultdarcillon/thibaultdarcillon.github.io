@@ -62,7 +62,7 @@ Economie politique des institutions (M1 SES), 2025- [[Syllabus](/assets/pdf/syll
 
 - **Université Paris Diderot (Paris VII)**
 
-*Histoire de la Pensée Économique (TD, L2 de Sciences Économiques/MIASHS-SES), 2013-2015  
-*Économie du travail (TD, L2 de Sciences Économiques/SES), 2013-2015  
-*Microéconomie (TD, L1 de Sciences Économiques/MIASHS-SES); 2013-2015  
-*Macroéconomie appliquée (TD, L1 de MIASHS, S2), 2013-2014  
+* Histoire de la Pensée Économique (TD, L2 de Sciences Économiques/MIASHS-SES), 2013-2015  
+* Économie du travail (TD, L2 de Sciences Économiques/SES), 2013-2015  
+* Microéconomie (TD, L1 de Sciences Économiques/MIASHS-SES); 2013-2015  
+* Macroéconomie appliquée (TD, L1 de MIASHS, S2), 2013-2014  
