@@ -10,7 +10,7 @@ author_profile: true
 * Economie politique de l'économie sociale et solidaire (Université Paris VIII, M2 ESSI), 2025- [[Syllabus](/assets/pdf/EcoPoESS_syllabus.pdf)]
 * Economie politique des institutions (Université Paris Nanterre, M1 SES), 2025- [[Syllabus](/assets/pdf/syllabus_EcoPoInstitutions.pdf)][[Chapitre 1](/assets/pdf/EcoPoIns_chap1.pdf)][[Chapitre 2](/assets/pdf/EcoPoIns_chap2.pdf)][[Chapitre 3](/assets/pdf/EcoPoIns_chap3.pdf)][[Chapitre 4](/assets/pdf/EcoPoIns_chap4.pdf)]
 * Inégalités et répartition (Université Paris VIII, L2 Economie-Gestion), 2024- [[Syllabus](/assets/pdf/Inegalites_syllabus_2025-2026.pdf)]
-* Séminaire de préparation au stage et au mémoire (Université Paris VIII, M1 MBFA), 2024- [[Syllabus](/assets/pdf/prep_stage_syllabus_2025-2026.pdf.pdf)]
+* Séminaire de préparation au stage et au mémoire (Université Paris VIII, M1 MBFA), 2024- [[Syllabus](/assets/pdf/prep_stage_syllabus_2025-2026.pdf)]
 * EC Tremplin (Université Paris VIII, L3 Economie-Gestion Parcours Economie-Finance), 2023- [[Syllabus](/assets/pdf/EC_tremplin_syllabus_2025-2026.pdf)][[Séance 1](/assets/pdf/EC_tremplin_memoire.pdf)][[Séance 2](/assets/pdf/EC_tremplin_CV.pdf)][[Séance 3](/assets/pdf/EC_tremplin_candidatures.pdf)]
 * Economie des organisations et des institutions (Université Paris VIII, M1 EMD3P/ESSI), 2021- [[Syllabus](/assets/pdf/EcoOrg_Inst_syllabus_2025-2026.pdf)] 
 * Politique économique (Université Paris VIII, M1 EMD3P), 2020- [[Syllabus](/assets/pdf/PolEco_syllabus_2025-2026.pdf)] 
