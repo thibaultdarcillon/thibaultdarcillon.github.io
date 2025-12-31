@@ -26,18 +26,18 @@ Health, Social Protection Macroeconomist, 2015-2016.
 
 ## Honors & Distinctions
 
-- RIPEC Individual Bonus (2021-2025; 2025-2028); 
+- RIPEC Individual Bonus (2022-2025; 2025-2028); 
 - Recipient of a 6-month CRCT (Research or Thematic Conversion Leave), 2023;
 - Doctorale Contract, Ministry of Higher Education and Research, 2010. 
 
 ## Administrative and Academic Responsabilities
 
-- Director of the Bachelor in Economics-Management (*Licence Economie-Gestion*), 2018- 
-- Director of the L.AS-PASS Program, 2020-
-- Member of the Parcoursup Commission for the Bachelor in Economics and Mangement, 2019-
-- Member of the Examination Committee (*jury*) for the Bachelor in Economics and Mangement, 2017-
 - Member of the Master’s Program Advisory Board – Money, Banking, Finance, and Insurance, 2016-
-- Director of the Dual Bachelor’s in Economics and Management – Management–LEA Program, 2022-2024
-- Member of the LED Council, 2021-
 - Elected Member of the Advisory Committee (*comité consultatif*), 2017-
+- Member of the Examination Committee (*jury*) for the Bachelor in Economics and Mangement, 2017-
+- Director of the Bachelor in Economics-Management (*Licence Economie-Gestion*), 2018- 
+- Member of the Parcoursup Commission for the Bachelor in Economics and Mangement, 2019-
+- Director of the L.AS-PASS Program, 2020-
+- Member of the LED Council, 2021-
+- Director of the Dual Bachelor’s in Economics and Management – Management–LEA Program, 2022-2024
 - Co-organizer of the seminar "[Political Economy of Institutional Change](https://www.parisschoolofeconomics.eu/evenements/economie-politique-du-changement-institutionnel-epci/)" with Jérôme <span class="smallcaps">Bourdieu</span> (Paris School of Economics), Clément <span class="smallcaps">Carbonnier</span> (Université Paris I) and Elvire <span class="smallcaps">Guillaud</span> (Université Paris I), 2023- 
