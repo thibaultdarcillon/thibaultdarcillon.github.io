@@ -9,10 +9,10 @@ author_profile: true
 
 ## Université Paris VIII Vincennes Saint-Denis
 
-**Economie politique de l'économie sociale et solidaire** (M2 ESSI), 2025- [Syllabus(/assets/pdf/EcoPoESS_syllabus.pdf)]
+**Economie politique de l'économie sociale et solidaire** (M2 ESSI), 2025- [[Syllabus](/assets/pdf/EcoPoESS_syllabus.pdf)]
 
-**Inégalités et répartition** (L2 Economie-Gestion), 2024- [Syllabus(/assets/pdf/Inegalites_syllabus_2025-2026.pdf)]
 
+**Inégalités et répartition** (L2 Economie-Gestion), 2024- [[Syllabus](Inegalites_syllabus_2025-2026.pdf)]
 
 - [Séminaire de préparation au stage et au mémoire](/assets/pdf/prep_stage_syllabus_2025-2026.pdf) (M1 MBFA), 2024-
 
