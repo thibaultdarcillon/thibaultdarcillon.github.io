@@ -20,8 +20,8 @@ Health, Social Protection Macroeconomist, 2015-2016.
 
 ## Education 
 
-- Accreditation to supervise research (*Habilitation à diriger des recherches*), Université de Paris (after Université Paris Cité), supervised by Antoine <span class="smallcaps">Rebérioux</span>), 2021. 
-- PhD in Economics (Political Economy), Université Paris I Panthéon-Sorbonne,  supervised by Bruno <span class="smallcaps">Amable</span>), 2013. 
+- Accreditation to supervise research (*Habilitation à diriger des recherches*), Université de Paris (after Université Paris Cité), supervised by Antoine <span class="smallcaps">Rebérioux</span>, 2021. 
+- PhD in Economics (Political Economy), Université Paris I Panthéon-Sorbonne,  supervised by Bruno <span class="smallcaps">Amable</span>, 2013. 
 - Master in Economics (Public Economics), Université Paris I Panthéon-Sorbonne, 2009.  
 
 ## Honors & Distinctions
@@ -40,4 +40,4 @@ Health, Social Protection Macroeconomist, 2015-2016.
 - Director of the Dual Bachelor’s in Economics and Management – Management–LEA Program, 2022-2024
 - Member of the LED Council, 2021-
 - Elected Member of the Advisory Committee (*comité consultatif*), 2017-
-- Co-organizer of the seminar "[Political Economy of Institutional Change](https://www.parisschoolofeconomics.eu/evenements/economie-politique-du-changement-institutionnel-epci/)" with Jérôme Bourdieu (Paris School of Economics), Clément Carbonnier (Université Paris I) and Elvire Guillaud (Université Paris I), 2023- 
+- Co-organizer of the seminar "[Political Economy of Institutional Change](https://www.parisschoolofeconomics.eu/evenements/economie-politique-du-changement-institutionnel-epci/)" with Jérôme <span class="smallcaps">Bourdieu</span> (Paris School of Economics), Clément <span class="smallcaps">Carbonnier</span> (Université Paris I) and Elvire <span class="smallcaps">Guillaud</span> (Université Paris I), 2023- 
