@@ -29,7 +29,6 @@ author_profile: true
 
 Economie politique des institutions (M1 SES), 2025- [[Syllabus](/assets/pdf/syllabus_EcoPoInstitutions.pdf)][[Chapitre 1](/assets/pdf/EcoPoIns_chap1.pdf)][[Chapitre 2](/assets/pdf/EcoPoIns_chap2.pdf)][[Chapitre 3](/assets/pdf/EcoPoIns_chap3.pdf)][[Chapitre 4](/assets/pdf/EcoPoIns_chap4.pdf)]
 
-***
 
 ## Past teaching 
 
@@ -62,7 +61,7 @@ Economie politique des institutions (M1 SES), 2025- [[Syllabus](/assets/pdf/syll
 
 - **Université Paris Diderot (Paris VII)**
 
-* Histoire de la Pensée Économique (TD, L2 de Sciences Économiques/MIASHS-SES), 2013-2015  
-* Économie du travail (TD, L2 de Sciences Économiques/SES), 2013-2015  
-* Microéconomie (TD, L1 de Sciences Économiques/MIASHS-SES); 2013-2015  
-* Macroéconomie appliquée (TD, L1 de MIASHS, S2), 2013-2014  
+*Histoire de la Pensée Économique (TD, L2 de Sciences Économiques/MIASHS-SES), 2013-2015  
+*Économie du travail (TD, L2 de Sciences Économiques/SES), 2013-2015  
+*Microéconomie (TD, L1 de Sciences Économiques/MIASHS-SES); 2013-2015  
+*Macroéconomie appliquée (TD, L1 de MIASHS, S2), 2013-2014  
