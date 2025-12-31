@@ -40,3 +40,4 @@ Health, Social Protection Macroeconomist, 2015-2016.
 - Director of the Dual Bachelor’s in Economics and Management – Management–LEA Program, 2022-2024
 - Member of the LED Council, 2021-
 - Elected Member of the Advisory Committee (*comité consultatif*), 2017-
+- Co-organizer of the seminar "[Political Economy of Institutional Change](https://www.parisschoolofeconomics.eu/evenements/economie-politique-du-changement-institutionnel-epci/)" with Jérôme Bourdieu (Paris School of Economics), Clément Carbonnier (Université Paris I) and Elvire Guillaud (Université Paris I), 2023- 
