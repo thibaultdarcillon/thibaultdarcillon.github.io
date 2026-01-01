@@ -20,7 +20,7 @@ author_profile: true
 ## Past teaching 
 
 * Economie politique de la globalisation (IEP de Fontainebleau, UPEC, Master Sciences politiques/Politiques publiques), 2024-2025;
-* Capitalisme, Finance et Emploi (Université Paris VIII, L3 Economie-Gestion Parcours Management), 2021-2023; 
+* Capitalisme, finance et emploi (Université Paris VIII, L3 Economie-Gestion Parcours Management), 2021-2023; 
 * Economic Policy (Université de Genève, Master Political Economy of Capitalism), 2019-2020;
 * Outils d’analyse de données économiques (Université Paris Lumières, L3 NCEP), 2017-2018;
 * Macroéconomie I (Université Paris VIII, L1 Économie-Gestion), 2016-2021;
@@ -31,7 +31,7 @@ author_profile: true
 * Économie du travail (TD) (Université Paris VII, L2 de Sciences Économiques/SES), 2013-2015; 
 * Microéconomie (TD) (Université Paris VII, L1 de Sciences Économiques/MIASHS-SES), 2013-2015;   
 * Macroéconomie appliquée (TD) (Université Paris VII, L1 de MIASHS, S2), 2013-2014; 
-* Croissance: Macroéconomie (TD) (Université Paris I, L3 de Sciences Économiques), 2011-2013;
-* Théories Économiques Comparées: Croissance et crises (TD) (Université Paris I, L2 de Sciences Économiques), 2010-2012; 
+* Croissance : Macroéconomie (TD) (Université Paris I, L3 de Sciences Économiques), 2011-2013;
+* Théories Économiques Comparées : Croissance et Crises (TD) (Université Paris I, L2 de Sciences Économiques), 2010-2012; 
 * Statistiques-Informatique (TD) (Université Paris I, L1 de Sciences Économiques), 2009-2011;
-* Théories Économiques Comparées: Valeur et Répartition (TD) (Université Paris I, L1 de Sciences Économiques), 2009-2010.
+* Théories Économiques Comparées : Valeur et Répartition (TD) (Université Paris I, L1 de Sciences Économiques), 2009-2010.
