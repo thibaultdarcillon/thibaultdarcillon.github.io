@@ -9,20 +9,20 @@ Download my full CV in [French](/assets/pdf/CV-09-20.pdf) or in [English](/asset
 
 ## Current Employment 
 
-- Associate Professor of Economics, Université Paris VIII, 2016-present.
+- Université Paris VIII Vincennes - Saint-Denis, Laboratoire d'Economie Dionysien, Associate Professor of Economics, 2016-present.
 
 ## Previous Positions 
 - Université Paris I Panthéon-Sorbonne, Centre d'Economie de la Sorbonne, Associate Researcher, 2015-2016. 
 - Directorate for Research of the French Ministry of Social Affairs and
 Health, Social Protection Macroeconomist, 2015-2016. 
-- Université Paris Diderot (Paris VII), Department of Economics, LADYSS, Temporary Research and Teaching Assistant (*ATER*), 2013-2015. 
-- Université Paris I Panthéon-Sorbonne/Paris School of Economics, Department of Economics, Centre d'Economie de la Sorbonne, PhD candidate, 2010-2013. 
+- Université Paris Diderot (Paris VII), Department of Economics, LADYSS, Temporary Teaching and Research Assistant (*ATER*), 2013-2015. 
+- Université Paris I Panthéon-Sorbonne/Paris School of Economics, Department of Economics, Centre d'Economie de la Sorbonne, PhD Candidate, 2010-2013. 
 
 ## Education 
 
 - Accreditation to supervise research (*Habilitation à diriger des recherches*), Université de Paris (after Université Paris Cité), supervised by Antoine <span class="smallcaps">Rebérioux</span>, 2021. 
 - PhD in Economics (Political Economy), Université Paris I Panthéon-Sorbonne,  supervised by Bruno <span class="smallcaps">Amable</span>, 2013. 
-- Master in Economics (Public Economics), Université Paris I Panthéon-Sorbonne, 2009.  
+- Master in Economics (Public Economics), Université Paris I Panthéon-Sorbonne, 2010.  
 
 ## Honors & Distinctions
 
