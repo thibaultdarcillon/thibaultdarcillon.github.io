@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### Refereed journals 
+### Refereed Journal Articles 
 
 - [15] "Job Destruction, Workforce Characteristics and Economic Performance: Evidence from Firm-Level Data in France, 2003-2018" (with Paul <span class="smallcaps">Lagneau-Ymonet</span>, Jaime <span class="smallcaps">Montana</span>, and Bénédicte <span class="smallcaps">Reynaud</span>), ***Revue Economique***, forthcoming (2026) [Article]
 - [14] "The Effect of Financial Deregulation on Effective Tax Rates: Evidence for 17 OECD countries (1973-2022) and the United States (1913-2019)", ***Applied Economics***, forthcoming (2025) [[Article](https://www.tandfonline.com/doi/pdf/10.1080/00036846.2025.2536878)][[Blog](https://aoc.media/analyse/2024/12/03/liberalisation-financiere-et-niveaux-de-taxation/)]
@@ -23,17 +23,17 @@ author_profile: true
 - [2] "The Political Economy of Easy Credit Policies" (with Karim <span class="smallcaps">Azizi</span>), ***Journal of Income Distribution***, 23(3-4), 84-105 (2014) [[Article](https://jid.journals.yorku.ca/index.php/jid/article/view/40311)] 
 - [1] "Mesurer l'impact de l'effet partisan sur les réformes de *corporate governance*", ***Revue Économique***, 64(3), pp. 445-455 (2013) [[Article](https://shs.cairn.info/revue-economique-2013-3-page-445?lang=fr)]  
 
-## Book chapters
+## Book Chapters
 
 - [1] "Finance, Risk, and Inequality",  [***Handbook on Risk and Inequality***](https://www.e-elgar.com/shop/gbp/handbook-on-risk-and-inequality-9781788972253.html), Curran <span class="smallcaps">Dean</span> (dir.), Edward Edgar Publishing (2022) [[Chapter](https://www.dropbox.com/scl/fi/nlf1wwnto62xoaufvx70a/2022_Handbook-on-Risk-and-Inequality-Chapter-2_-Finance-risk-and-inequality.pdf?rlkey=pg1fmbxgo0ru6et838s6i1jdt&st=9cj20gwp&dl=0)] 
 
-## Book reviews
+## Book Reviews
 
 - [3] "De la diffusion des idées à l'adoption de réformes néolibérales : la France fait-elle vraiment exception ?", ***Revue Française de Socio-Economie***, 31(2), 271-278 (2023) [[Article](https://shs.cairn.info/revue-francaise-de-socio-economie-2023-2-page-271?lang=fr)]
 - [2] "Book review : Labor in the Age of Finance. Pensions, politics and corporations from deindustrialization to Dodd-Frank by Sanford Jacoby," ***Competition & Change***, 27(5), 874-876 (2023) [[Article](https://journals.sagepub.com/doi/10.1177/10245294221146218)] 
 - [1] "Les serfs du numérique. À propos de : Cédric Durand, *Techno-féodalisme. Critique de l’économie numérique*. Zones", ***La vie des idées*** (2021) [[Article](https://laviedesidees.fr/Durand-Techno-feodalisme)]
 
-## Work in progress
+## Work in Progress
 
 - "Job Quality, Bargaining Power, and Capital Ownership Structure: Evidence from Establishment-Level Data in France, 2005-2023" (with Yasmine <span class="smallcaps">Mohamed</span>) [in revision] 
 - "Dismantling the European mode of development: digital capitalism, platform work, and the role of the state in Ireland and Spain (1970–2023)" (with Blanca <span class="smallcaps">Lozano Navarro</span>)
@@ -44,6 +44,6 @@ author_profile: true
 
 
 
-## Other publications
+## Other Publications
 
-- "Économie politique de la libéralisation financière. Les réformes de dérégulation financière et de *corporate governance* dans les pays de l'OCDE", ***Revue de la Régulation*** 14(2), 2013. [[Article](https://doi.org/10.4000/regulation.10366)]
+- "Économie politique de la libéralisation financière. Les réformes de dérégulation financière et de *corporate governance* dans les pays de l'OCDE", ***Revue de la Régulation***, 14(2), 2013. [[Article](https://doi.org/10.4000/regulation.10366)]

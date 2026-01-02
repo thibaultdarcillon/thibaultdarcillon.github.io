@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Current teaching 
+## Current Teaching 
 
 * Economie politique de l'économie sociale et solidaire (Université Paris VIII, M2 ESSI), 2025- [[Syllabus](/assets/pdf/EcoPoESS_syllabus.pdf)]
 * Economie politique des institutions (Université Paris Nanterre, M1 SES), 2025- [[Syllabus](/assets/pdf/syllabus_EcoPoInstitutions.pdf)][[Chapitre 1](/assets/pdf/EcoPoIns_chap1.pdf)][[Chapitre 2](/assets/pdf/EcoPoIns_chap2.pdf)][[Chapitre 3](/assets/pdf/EcoPoIns_chap3.pdf)][[Chapitre 4](/assets/pdf/EcoPoIns_chap4.pdf)]
@@ -17,7 +17,7 @@ author_profile: true
 * Introduction à l'économie (Université Paris VIII, L1 Economie-Gestion), 2019- [[Syllabus](/assets/pdf/intro_eco_syllabus_2025-2026.pdf)] 
 * Systèmes financiers et changements institutionnels (Université Paris VIII, M2 MBFA), 2016- [[Syllabus](/assets/pdf/SFCI_syllabus_2025-2026.pdf)] 
 
-## Past teaching 
+## Past Teaching 
 
 * Economie politique de la globalisation (IEP de Fontainebleau, UPEC, Master Sciences politiques/Politiques publiques), 2024-2025;
 * Capitalisme, finance et emploi (Université Paris VIII, L3 Economie-Gestion Parcours Management), 2021-2023; 

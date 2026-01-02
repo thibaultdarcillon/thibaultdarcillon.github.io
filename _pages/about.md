@@ -15,10 +15,12 @@ My **research interests** are in questions related to (i) Political Economy; (ii
 
 Within the department of Economics and Management at the Université Paris VIII, I am: 
 
-- Director of the Bachelor (undergraduate program) in Economics-Management (*Licence Economie-Gestion*) (since 2018); 
-- Member of the LED Council (since 2021) and the *comité consultatif* (since 2017)
+- Director of the Bachelor (undergraduate program) in Economics-Management (*Licence Economie-Gestion*) (since 2018).
+- Member of the LED Council (since 2021) and the *comité consultatif* (since 2017).
 
 I am one of the co-organizers of the seminar "[Political Economy of Institutional Change](https://www.parisschoolofeconomics.eu/evenements/economie-politique-du-changement-institutionnel-epci/)" (Université Paris I/Paris School of Economics). 
+
+I mainly teach Introduction to Economics, Economic Policy—with a particular focus on issues related to economic inequality—and Institutional Economics.
 
 ## Contact 
 
