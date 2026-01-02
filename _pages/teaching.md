@@ -27,7 +27,7 @@ author_profile: true
 * Techniques quantitatives I (Université Paris VIII, L1 Économie-Gestion), 2016-2019.
 * Économie politique (Université Paris I, M2 Recherche Economie appliquée), 2015-2016.
 * Political Economy (Université Paris I, PSME), 2015-2016.
-* Histoire de la Pensée Économique (TD) (Université Paris VII, L2 de Sciences Économiques/MIASHS-SES), 2013-2015.
+* Histoire de la pensée économique (TD) (Université Paris VII, L2 de Sciences Économiques/MIASHS-SES), 2013-2015.
 * Économie du travail (TD) (Université Paris VII, L2 de Sciences Économiques/SES), 2013-2015. 
 * Microéconomie (TD) (Université Paris VII, L1 de Sciences Économiques/MIASHS-SES), 2013-2015. 
 * Macroéconomie appliquée (TD) (Université Paris VII, L1 de MIASHS, S2), 2013-2014.
