@@ -30,7 +30,7 @@ Health, Social Protection Macroeconomist, 2015-2016.
 - Recipient of a 6-month CRCT (Research or Thematic Conversion Leave), 2023.
 - Doctorale Contract, Ministry of Higher Education and Research, 2010. 
 
-## Administrative and Academic Responsabilities
+## Administrative & Academic Responsabilities
 
 - Co-organizer of the seminar "[Political Economy of Institutional Change](https://www.parisschoolofeconomics.eu/evenements/economie-politique-du-changement-institutionnel-epci/)" with Jérôme <span class="smallcaps">Bourdieu</span> (Paris School of Economics), Clément <span class="smallcaps">Carbonnier</span> (Université Paris I) and Elvire <span class="smallcaps">Guillaud</span> (Université Paris I), 2023-present.
 - Director of the Dual Bachelor’s in Economics and Management – Management–LEA Program, 2022-2024.
