@@ -25,7 +25,7 @@ author_profile: true
 
 ## Book Chapters
 
-- [1] "Introduction", [***Economie sociale et \'economie politique : regards crois\'es sur l'histoire et sur les enjeux contemporains***](https://pul.uclouvain.be/book/?gcoi=29303100481340), Carole <span class="smallcaps">Brunet</span>, Thibault <span class="smallcaps">Darcillon</span>, et Géraldine <span class="smallcaps">Rieucau</span> (dir.), Presses universitaires de Louvain, 390 p., *Cahier du CIRTES*, hors série n°7 (2017) 
+- [1] "Introduction", [***Economie sociale et économie politique : regards croisés sur l'histoire et sur les enjeux contemporains***](https://pul.uclouvain.be/book/?gcoi=29303100481340), Carole <span class="smallcaps">Brunet</span>, Thibault <span class="smallcaps">Darcillon</span>, et Géraldine <span class="smallcaps">Rieucau</span> (dir.), Presses universitaires de Louvain, 390 p., *Cahier du CIRTES*, hors série n°7 (2017) 
 - [2] "Finance, Risk, and Inequality",  [***Handbook on Risk and Inequality***](https://www.e-elgar.com/shop/gbp/handbook-on-risk-and-inequality-9781788972253.html), Curran <span class="smallcaps">Dean</span> (dir.), Edward Edgar Publishing (2022) [[Chapter](https://www.dropbox.com/scl/fi/nlf1wwnto62xoaufvx70a/2022_Handbook-on-Risk-and-Inequality-Chapter-2_-Finance-risk-and-inequality.pdf?rlkey=pg1fmbxgo0ru6et838s6i1jdt&st=9cj20gwp&dl=0)] 
 
 ## Book Reviews
