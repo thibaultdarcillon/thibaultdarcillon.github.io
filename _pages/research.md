@@ -32,7 +32,7 @@ author_profile: true
 
 - Darcillon, Thibault (2023), "De la diffusion des idées à l'adoption de réformes néolibérales : la France fait-elle vraiment exception ?", *Revue Française de Socio-Economie*, 31(2), 271-278 [[Article](https://shs.cairn.info/revue-francaise-de-socio-economie-2023-2-page-271?lang=fr)]
 - Darcillon, Thibault (2023), "Book review : Labor in the Age of Finance. Pensions, politics and corporations from deindustrialization to Dodd-Frank by Sanford Jacoby," *Competition & Change*, 27(5), 874-876 [[Article](https://journals.sagepub.com/doi/10.1177/10245294221146218)] 
-- Darcillon, Thibault (2021), "Les serfs du numérique. À propos de : Cédric Durand, *Techno-féodalisme. Critique de l’économie numérique*. Zones", *La Vie des idées* (2021) [[Article](https://laviedesidees.fr/Durand-Techno-feodalisme)]
+- Darcillon, Thibault (2021), "Les serfs du numérique. À propos de : Cédric Durand, *Techno-féodalisme. Critique de l’économie numérique*. Zones", *La Vie des idées* [[Article](https://laviedesidees.fr/Durand-Techno-feodalisme)]
 
 ## Work in Progress
 
