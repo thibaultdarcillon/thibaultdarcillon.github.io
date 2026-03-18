@@ -26,11 +26,11 @@ author_profile: true
 ## Book Chapters
 
 - Darcillon, Thibault (2022), "Finance, Risk, and Inequality",  [*Handbook on Risk and Inequality*](https://www.e-elgar.com/shop/gbp/handbook-on-risk-and-inequality-9781788972253.html), Curran <span class="smallcaps">Dean</span> (dir.), Edward Edgar Publishing [[Chapter](https://www.dropbox.com/scl/fi/nlf1wwnto62xoaufvx70a/2022_Handbook-on-Risk-and-Inequality-Chapter-2_-Finance-risk-and-inequality.pdf?rlkey=pg1fmbxgo0ru6et838s6i1jdt&st=9cj20gwp&dl=0)] 
-- Brunet, Carole, Thibault Darcillon & Géraldine Rieucau (2017), "Introduction", [*Economie sociale et économie politique : regards croisés sur l'histoire et sur les enjeux contemporains*](https://pul.uclouvain.be/book/?gcoi=29303100481340), Carole <span class="smallcaps">Brunet</span>, Thibault <span class="smallcaps">Darcillon</span>, et Géraldine <span class="smallcaps">Rieucau</span> (dir.), Presses universitaires de Louvain, 390 p., *Cahier du CIRTES*, hors série n°7 (2017) 
+- Brunet, Carole, Thibault Darcillon & Géraldine Rieucau (2017), "Introduction", [*Economie sociale et économie politique : regards croisés sur l'histoire et sur les enjeux contemporains*](https://pul.uclouvain.be/book/?gcoi=29303100481340), Carole <span class="smallcaps">Brunet</span>, Thibault <span class="smallcaps">Darcillon</span>, et Géraldine <span class="smallcaps">Rieucau</span> (dir.), Presses universitaires de Louvain, 390 p., *Cahier du CIRTES*, hors série n°7 
 
 ## Book Reviews
 
-- Darcillon, Thibault (2023), "De la diffusion des idées à l'adoption de réformes néolibérales : la France fait-elle vraiment exception ?", *Revue Française de Socio-Economie*, 31(2), 271-278[[Article](https://shs.cairn.info/revue-francaise-de-socio-economie-2023-2-page-271?lang=fr)]
+- Darcillon, Thibault (2023), "De la diffusion des idées à l'adoption de réformes néolibérales : la France fait-elle vraiment exception ?", *Revue Française de Socio-Economie*, 31(2), 271-278 [[Article](https://shs.cairn.info/revue-francaise-de-socio-economie-2023-2-page-271?lang=fr)]
 - Darcillon, Thibault (2023), "Book review : Labor in the Age of Finance. Pensions, politics and corporations from deindustrialization to Dodd-Frank by Sanford Jacoby," *Competition & Change*, 27(5), 874-876 [[Article](https://journals.sagepub.com/doi/10.1177/10245294221146218)] 
 - Darcillon, Thibault (2021), "Les serfs du numérique. À propos de : Cédric Durand, *Techno-féodalisme. Critique de l’économie numérique*. Zones", *La Vie des idées* (2021) [[Article](https://laviedesidees.fr/Durand-Techno-feodalisme)]
 
