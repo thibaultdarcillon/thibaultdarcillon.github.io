@@ -42,6 +42,7 @@ author_profile: true
 - "Political Involvement and Formation of Taxation Preferences" (with Bilal <span class="smallcaps">El Rafhi</span>)
 - "Do Institutional Investors Influence Corporate Governance and Compensation? Evidence for Canada and the US" (with Yasmine <span class="smallcaps">Mohamed</span>)
 - "The Evolution of Social Blocs in Iceland: A Latent Class Analysis" (with Léo <span class="smallcaps">Malherbe</span>)
+- "La qualité de l'emploi dans les pays de l'OCDE : Construction d'un indicateur synthétique multidimensionnel (1993--2022)" (with Yasmine <span class="smallcaps">Mohamed</span>)
 - "Labor Share, Capital Share, and Profit: A Review of the Data and Literature" (with Guillaume <span class="smallcaps">Bazot</span> and David <span class="smallcaps">Guerreiro</span>) 
 
 
