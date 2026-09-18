@@ -7,8 +7,8 @@ author_profile: true
 
 ### Refereed Journal Articles 
 
-- Darcillon, Thibault, Paul Lagneau-Ymonet, Jaime Montana & Bénédicte Reynaud (2026), "Job Destruction, Workforce Characteristics and Economic Performance: Evidence from Firm-Level Data in France, 2003-2018", *Revue Economique*, forthcoming [Article]
-- Darcillon, Thibault (2025), "The Effect of Financial Deregulation on Effective Tax Rates: Evidence for 17 OECD countries (1973-2022) and the United States (1913-2019)", *Applied Economics*, forthcoming [[Article](https://www.tandfonline.com/doi/pdf/10.1080/00036846.2025.2536878)][[Blog](https://aoc.media/analyse/2024/12/03/liberalisation-financiere-et-niveaux-de-taxation/)]
+- Darcillon, Thibault, Paul Lagneau-Ymonet, Jaime Montana & Bénédicte Reynaud (2026), "Job Destruction, Workforce Characteristics and Economic Performance: Evidence from Firm-Level Data in France, 2003-2018", *Revue Economique*, 77(2) [Article](https://shs.cairn.info/revue-economique-2026-2-page-199?lang=en)]
+- Darcillon, Thibault (2026), "The Effect of Financial Deregulation on Effective Tax Rates: Evidence for 17 OECD countries (1973-2022) and the United States (1913-2019)", *Applied Economics*, 58(39) [[Article](https://www.tandfonline.com/doi/full/10.1080/00036846.2025.2536878)][[Blog](https://aoc.media/analyse/2024/12/03/liberalisation-financiere-et-niveaux-de-taxation/)]
 - Amable, Bruno & Thibault Darcillon (2025), "Brahmin left *versus* merchant right? Political support and policy preferences in Western democraties", *Revue de la Régulation*, 38 [[Article](https://journals.openedition.org/regulation/25121)] [[Working Paper](https://archive-ouverte.unige.ch/unige:159102)][[Supplementary Appendix](https://www.dropbox.com/scl/fi/uhymt83ax5sdistx59tym/supplementary_appendix.pdf?rlkey=dabluq4lphftyihug3ctte8jx&e=1&st=eagzt7ie&dl=0)]
 - Darcillon, Thibault & Bilal El Rafhi (2024), "The Evolution of Affluent Support for Redistribution in Germany in the Context of Rising Inequalities", *European Journal of Political Economy*, 85 [[Article](https://www.sciencedirect.com/science/article/pii/S0176268024001162)]
 - Darcillon, Thibault & Yasmine Mohamed (2024), "Job Quality and Institutional Investors: Evidence in 17 OECD Countries, 1990-2017", *European Journal of Industrial Relations*, 31(4): 487-514 [[Article](https://journals.sagepub.com/eprint/J3FG22XJGUZJW5HSYAXS/full)]
@@ -37,12 +37,12 @@ author_profile: true
 ## Work in Progress
 
 - "Job Quality and Capital Ownership Structure: Evidence from Establishment-Level Data in France, 2005-2023" (with Yasmine <span class="smallcaps">Mohamed</span>) [revise & resubmitted] 
-- "Dismantling the European mode of development: digital capitalism, platform work, and the role of the state in Ireland and Spain (1970–2023)" (with Blanca <span class="smallcaps">Lozano Navarro</span>) [submitted]
+- "Dismantling the European mode of development: digital capitalism, platform work, and the role of the state in Ireland and Spain (1970–2023)" (with Blanca <span class="smallcaps">Lozano Navarro</span>) [revise & resubmitted]
+- "La qualité de l'emploi dans les pays de l'OCDE : Construction d'un indicateur synthétique multidimensionnel (1993--2022)" (with Yasmine <span class="smallcaps">Mohamed</span>) [revise & resubmitted]
 - "The Political Economy of Environmental Protection" 
+- "The Evolution of Social Blocs in Iceland: A Latent Class Analysis" (with Léo <span class="smallcaps">Malherbe</span>)
 - "Political Involvement and Formation of Taxation Preferences" (with Bilal <span class="smallcaps">El Rafhi</span>)
 - "Do Institutional Investors Influence Corporate Governance and Compensation? Evidence for Canada and the US" (with Yasmine <span class="smallcaps">Mohamed</span>)
-- "The Evolution of Social Blocs in Iceland: A Latent Class Analysis" (with Léo <span class="smallcaps">Malherbe</span>)
-- "La qualité de l'emploi dans les pays de l'OCDE : Construction d'un indicateur synthétique multidimensionnel (1993--2022)" (with Yasmine <span class="smallcaps">Mohamed</span>)
 - "Labor Share, Capital Share, and Profit: A Review of the Data and Literature" (with Guillaume <span class="smallcaps">Bazot</span> and David <span class="smallcaps">Guerreiro</span>) 
 
 

@@ -15,8 +15,9 @@ My **research interests** are in questions related to (i) Political Economy; (ii
 
 Within the department of Economics and Management at the Université Paris VIII, I am: 
 
-- Director of the Bachelor (undergraduate program) in Economics-Management (*Licence Economie-Gestion*) (since 2018).
+- Program Director of the 'Banking and Insurance' specialization track, 2nd-year Master’s degree in Money, Banking, Finance, and Insurance (MBFA) (since 2026)
 - Member of the *comité consultatif* (since 2017) and the LED Council (since 2021)
+- Former Director of the Bachelor (undergraduate program) in Economics-Management (*Licence Economie-Gestion*) (2018-2026).
 
 I am one of the co-organizers of the seminar "[Political Economy of Institutional Change](https://www.parisschoolofeconomics.eu/evenements/economie-politique-du-changement-institutionnel-epci/)" (Université Paris I/Paris School of Economics). 
 
