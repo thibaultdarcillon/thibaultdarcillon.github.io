@@ -8,17 +8,16 @@ author_profile: true
 ## Current Teaching 
 
 * Economie politique de l'économie sociale et solidaire (Université Paris VIII, M2 ESSI), 2025- [[Syllabus](/assets/pdf/EcoPoESS_syllabus.pdf)]
-* Economie politique des institutions (Université Paris Nanterre, M1 SES), 2025- [[Syllabus](/assets/pdf/syllabus_EcoPoInstitutions.pdf)][[Chapitre 1](/assets/pdf/EcoPoIns_chap1.pdf)][[Chapitre 2](/assets/pdf/EcoPoIns_chap2.pdf)][[Chapitre 3](/assets/pdf/EcoPoIns_chap3.pdf)][[Chapitre 4](/assets/pdf/EcoPoIns_chap4.pdf)]
-* Inégalités et répartition (Université Paris VIII, L2 Economie-Gestion), 2024- [[Syllabus](/assets/pdf/Inegalites_syllabus_2025-2026.pdf)]
-* Séminaire de préparation au stage et au mémoire (Université Paris VIII, M1 MBFA), 2024- [[Syllabus](/assets/pdf/prep_stage_syllabus_2025-2026.pdf)]
-* EC Tremplin (Université Paris VIII, L3 Economie-Gestion Parcours Economie-Finance), 2023- [[Syllabus](/assets/pdf/EC_tremplin_syllabus_2025-2026.pdf)][[Séance 1](/assets/pdf/EC_tremplin_memoire.pdf)][[Séance 2](/assets/pdf/EC_tremplin_CV.pdf)][[Séance 3](/assets/pdf/EC_tremplin_candidatures.pdf)]
-* Economie des organisations et des institutions (Université Paris VIII, M1 EMD3P/ESSI), 2021- [[Syllabus](/assets/pdf/EcoOrg_Inst_syllabus_2025-2026.pdf)] 
-* Politique économique (Université Paris VIII, M1 EMD3P), 2020- [[Syllabus](/assets/pdf/PolEco_syllabus_2025-2026.pdf)] 
-* Introduction à l'économie (Université Paris VIII, L1 Economie-Gestion), 2019- [[Syllabus](/assets/pdf/intro_eco_syllabus_2025-2026.pdf)] 
-* Systèmes financiers et changements institutionnels (Université Paris VIII, M2 MBFA), 2016- [[Syllabus](/assets/pdf/SFCI_syllabus_2025-2026.pdf)] 
+* Inégalités et répartition (Université Paris VIII, L2 Economie-Gestion), 2024- [[Syllabus](/assets/pdf/Inegalites_syllabus_2026-2027.pdf)]
+* Séminaire de préparation au stage et au mémoire (Université Paris VIII, M1 MBFA), 2024- [[Syllabus](/assets/pdf/prep_stage_syllabus_2026-2027.pdf)]
+* EC Tremplin Master (Université Paris VIII, L3 Economie-Gestion Parcours Economie-Finance), 2023- [[Syllabus](/assets/pdf/EC_tremplin_syllabus_2026-2027.pdf)][Séance 1][Séance 2][Séance 3]
+* Economie des organisations et des institutions (Université Paris VIII, M1 EMD3P/ESSI), 2021- [[Syllabus](/assets/pdf/EcoOrg_Inst_syllabus_2026-2027.pdf)] 
+* Politique économique (Université Paris VIII, M1 EMD3P), 2020- [[Syllabus](/assets/pdf/PolEco_syllabus_2026-2027.pdf)] 
+* Introduction à l'économie (Université Paris VIII, L1 Economie-Gestion), 2019- [[Syllabus](/assets/pdf/intro_eco_syllabus_2026-2027.pdf)] 
+* Changements institutionnels en banque et assurance (Université Paris VIII, M2 MBFA), 2016- [[Syllabus](/assets/pdf/CIBA_syllabus_2026-2027.pdf)] 
 
 ## Past Teaching 
-
+* Economie politique des institutions (Université Paris Nanterre, M1 SES), 2025-2026 
 * Economie politique de la globalisation (IEP de Fontainebleau, UPEC, Master Sciences politiques/Politiques publiques), 2024-2025.
 * Capitalisme, finance et emploi (Université Paris VIII, L3 Economie-Gestion Parcours Management), 2021-2023.
 * Economic Policy (Université de Genève, Master Political Economy of Capitalism), 2019-2020.
