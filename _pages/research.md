@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Refereed Journal Articles 
-- Darcillon, Thibault & Yasmine Mohamed (2026), "La qualité de l'emploi dans les pays de l'OCDE : Construction d'un indicateur synthétique multidimensionnel (1993--2024)", *Relations Industrielles/Industrial Relations*, forthcoming [Article]
+- Darcillon, Thibault & Yasmine Mohamed (2026), "La qualité de l'emploi dans les pays de l'OCDE : Construction d'un indicateur synthétique multidimensionnel (1993--2024)", *Relations Industrielles / Industrial Relations*, forthcoming [Article]
 - Darcillon, Thibault, Paul Lagneau-Ymonet, Jaime Montana & Bénédicte Reynaud (2026), "Job Destruction, Workforce Characteristics and Economic Performance: Evidence from Firm-Level Data in France, 2003-2018", *Revue Economique*, 77(2) [[Article](https://shs.cairn.info/revue-economique-2026-2-page-199?lang=en)]
 - Darcillon, Thibault (2026), "The Effect of Financial Deregulation on Effective Tax Rates: Evidence for 17 OECD countries (1973-2022) and the United States (1913-2019)", *Applied Economics*, 58(39) [[Article](https://www.tandfonline.com/doi/full/10.1080/00036846.2025.2536878)][[Blog](https://aoc.media/analyse/2024/12/03/liberalisation-financiere-et-niveaux-de-taxation/)]
 - Amable, Bruno & Thibault Darcillon (2025), "Brahmin left *versus* merchant right? Political support and policy preferences in Western democraties", *Revue de la Régulation*, 38 [[Article](https://journals.openedition.org/regulation/25121)] [[Working Paper](https://archive-ouverte.unige.ch/unige:159102)][[Supplementary Appendix](https://www.dropbox.com/scl/fi/uhymt83ax5sdistx59tym/supplementary_appendix.pdf?rlkey=dabluq4lphftyihug3ctte8jx&e=1&st=eagzt7ie&dl=0)]
