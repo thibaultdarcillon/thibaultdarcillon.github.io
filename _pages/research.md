@@ -37,7 +37,7 @@ author_profile: true
 ## Work in Progress
 
 - "Job Quality and Capital Ownership Structure: Evidence from Establishment-Level Data in France, 2005-2023" (with Yasmine <span class="smallcaps">Mohamed</span>) [revise & resubmitted] 
-- "Dismantling the European mode of development: digital capitalism, platform work, and the role of the state in Ireland and Spain (1970–2023)" (with Blanca <span class="smallcaps">Lozano Navarro</span>) [revise & resubmitted]
+- "The Structural Limits of Supranational Regulation: Platform Capitalism and the Wage Relation in Ireland and Spain (1970--2026)" (with Blanca <span class="smallcaps">Lozano Navarro</span>) [revise & resubmitted]
 - "The Political Economy of Environmental Protection" 
 - "The Evolution of Social Blocs in Iceland: A Latent Class Analysis" (with Léo <span class="smallcaps">Malherbe</span>)
 - "Political Involvement and Formation of Taxation Preferences" (with Bilal <span class="smallcaps">El Rafhi</span>)
