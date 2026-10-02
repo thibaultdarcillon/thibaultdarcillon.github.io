@@ -31,13 +31,13 @@ Health, Social Protection Macroeconomist, 2015-2016.
 - Doctorale Contract, Ministry of Higher Education and Research, 2010. 
 
 ## Administrative & Academic Responsabilities
-
+- Program Director, "Banking and Insurance" Track – 2nd-Year Master’s in Money, Banking, Finance, and Insurance (MBFA), 2026-present. 
 - Co-organizer of the seminar "[Political Economy of Institutional Change](https://www.parisschoolofeconomics.eu/evenements/economie-politique-du-changement-institutionnel-epci/)" with Jérôme <span class="smallcaps">Bourdieu</span> (Paris School of Economics), Clément <span class="smallcaps">Carbonnier</span> (Université Paris I) and Elvire <span class="smallcaps">Guillaud</span> (Université Paris I), 2023-present.
 - Director of the Dual Bachelor’s in Economics and Management – Management–LEA Program, 2022-2024.
 - Member of the LED Council, 2021-present.
 - Director of the L.AS-PASS Program, 2020-present.
 - Member of the Parcoursup Commission for the Bachelor in Economics and Mangement, 2019-present.
-- Director of the Bachelor in Economics-Management (*Licence Economie-Gestion*), 2018-present.
+- Director of the Bachelor in Economics-Management (*Licence Economie-Gestion*), 2018-2026.
 - Member of the Examination Committee (*jury*) for the Bachelor in Economics and Mangement, 2017-present.
 - Elected Member of the Advisory Committee (*comité consultatif*), 2017-present.
 - Member of the Master’s Program Advisory Board (*Conseil de perfectionnement*) – Money, Banking, Finance, and Insurance, 2016-present.
