@@ -5,6 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
+## Work in Progress
+
+- "The Structural Limits of Supranational Regulation: Platform Capitalism and the Wage Relation in Ireland and Spain (1970--2026)" (with Blanca <span class="smallcaps">Lozano Navarro</span>) [revise & resubmitted]
+- "The Political Economy of Environmental Protection" [submitted]
+- "The Evolution of Social Blocs in Iceland: A Latent Class Analysis" (with Léo <span class="smallcaps">Malherbe</span>)
+- "Job Quality and Capital Ownership Structure: Evidence from Establishment-Level Data in France, 2005-2023" (with Yasmine <span class="smallcaps">Mohamed</span>) 
+- "Political Involvement and Formation of Taxation Preferences" (with Bilal <span class="smallcaps">El Rafhi</span>)
+- "Do Institutional Investors Influence Corporate Governance and Compensation? Evidence for Canada and the US" (with Yasmine <span class="smallcaps">Mohamed</span>)
+
+
 ### Refereed Journal Articles 
 - Darcillon, Thibault & Yasmine Mohamed (2026), "La qualité de l'emploi dans les pays de l'OCDE : Construction d'un indicateur synthétique multidimensionnel (1993--2024)", *Relations Industrielles / Industrial Relations*, forthcoming [Article]
 - Darcillon, Thibault, Paul Lagneau-Ymonet, Jaime Montana & Bénédicte Reynaud (2026), "Job Destruction, Workforce Characteristics and Economic Performance: Evidence from Firm-Level Data in France, 2003-2018", *Revue Economique*, 77(2) [[Article](https://shs.cairn.info/revue-economique-2026-2-page-199?lang=en)]
@@ -34,15 +44,7 @@ author_profile: true
 - Darcillon, Thibault (2023), "Book review : Labor in the Age of Finance. Pensions, politics and corporations from deindustrialization to Dodd-Frank by Sanford Jacoby," *Competition & Change*, 27(5), 874-876 [[Article](https://journals.sagepub.com/doi/10.1177/10245294221146218)] 
 - Darcillon, Thibault (2021), "Les serfs du numérique. À propos de : Cédric Durand, *Techno-féodalisme. Critique de l’économie numérique*. Zones", *La Vie des idées* [[Article](https://laviedesidees.fr/Durand-Techno-feodalisme)]
 
-## Work in Progress
 
-- "Job Quality and Capital Ownership Structure: Evidence from Establishment-Level Data in France, 2005-2023" (with Yasmine <span class="smallcaps">Mohamed</span>) [revise & resubmitted] 
-- "The Structural Limits of Supranational Regulation: Platform Capitalism and the Wage Relation in Ireland and Spain (1970--2026)" (with Blanca <span class="smallcaps">Lozano Navarro</span>) [revise & resubmitted]
-- "The Political Economy of Environmental Protection" 
-- "The Evolution of Social Blocs in Iceland: A Latent Class Analysis" (with Léo <span class="smallcaps">Malherbe</span>)
-- "Political Involvement and Formation of Taxation Preferences" (with Bilal <span class="smallcaps">El Rafhi</span>)
-- "Do Institutional Investors Influence Corporate Governance and Compensation? Evidence for Canada and the US" (with Yasmine <span class="smallcaps">Mohamed</span>)
-- "Labor Share, Capital Share, and Profit: A Review of the Data and Literature" (with Guillaume <span class="smallcaps">Bazot</span> and David <span class="smallcaps">Guerreiro</span>) 
 
 
 
